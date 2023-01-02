@@ -1,4 +1,4 @@
-# awesome-topic-modeling
+# awesome-cellular-programs
 Community-curated list of software packages and data resources for topic modeling of genomics data. Modeled after [awesome-single-cell](https://github.com/seandavi/awesome-single-cell). [Contributions welcome!](https://github.com/adamklie/awesome-topic-modeling/blob/main/CONTRIBUTING.md)
 
 ## Contents
